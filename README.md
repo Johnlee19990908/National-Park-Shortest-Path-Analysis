@@ -2,7 +2,7 @@
 
 ![Eight Image](https://github.com/Johnlee19990908/Min-Cost-Flow_-Transportation-Strategy/blob/main/readme_photo/1.png)
 
-data table
+Data table
 
 ![Eight Image](https://github.com/Johnlee19990908/National-Park-Shortest-Path-Analysis/blob/main/readme_photo/2.png)
 ## Overview
