@@ -55,10 +55,18 @@ Using Dijkstra’s algorithm with a focus on travel time, the shortest time path
 - **Total Travel Time**: 964 minutes
 
 ### 3. Multilabel Balanced Path
-Using the multilabel algorithm, we found a balanced path that considers both distance and time constraints:
+####  Shortest Distance with Time Constraint
+Using the multilabel algorithm, we found the shortest valid path that considers both distance and time constraints:
 
-- **Non-Dominated Path**: Distance = 964 miles, Time = 870 minutes
+- **Valid Path**: Distance = 872 miles, Time = 964 minutes
 - **Path**: Yellowstone_NP_WY → Idaho_Falls_ID → Twin_Falls_ID → Wells_NV → Winnemuca_NV → Reno_NV → Yosemite_NP_CA
+
+#### Shortest Time with Distance Constraint
+Using the multilabel algorithm, we also found the path with the shortest time while adhering to distance constraints:
+
+- **Valid Path**: Distance = 867 miles, Time = 1073 minutes
+- **Path**: Yellowstone_NP_WY → Idaho_Falls_ID → Twin_Falls_ID → Wells_NV → Ely_NV → Bishop_CA → Yosemite_NP_CA
+
 
 ## Files
 
